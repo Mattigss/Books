@@ -6,5 +6,9 @@ Biography
 Humor
 Fairy tale
 Historical
-Mystery
 Mimoir
+Horror
+Educational
+Money
+Sales
+Communication
